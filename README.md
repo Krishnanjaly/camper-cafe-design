@@ -1,6 +1,6 @@
 # ☕ Camper Cafe Menu
 
-A stylish and responsive café menu built using **HTML** and **CSS**. This project was created as part of a web development learning module and is inspired by the [freeCodeCamp](https://www.freecodecamp.org/) curriculum.
+A stylish and responsive café menu built using **HTML** and **CSS**. This project was created as part of a web development learning module.
 
 ## 🧾 Features
 
